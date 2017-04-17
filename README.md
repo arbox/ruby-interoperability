@@ -13,6 +13,20 @@ Ruby Mixture with other Programming Languages
 
 ## Extending Ruby
 
+- https://github.com/unak/fiddley
+
+### R
+
+- https://github.com/mrkn/rcall
+
+### Python
+
+- https://github.com/mrkn/pycall
+
+### Julia
+
+- https://github.com/mrkn/ruby-julia
+
 ## Embedding Ruby
 
 ## Inter-process Communication
