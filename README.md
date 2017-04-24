@@ -13,7 +13,15 @@ Ruby Mixture with other Programming Languages
 
 ## Extending Ruby
 
+### C
 - https://github.com/unak/fiddley
+
+### Rust
+
+- http://undefined-reference.org/2016/05/14/writing-rubygem-in-rust.html
+- https://github.com/steveklabnik/rust_example
+- https://forums.sketchup.com/t/native-ruby-extension-in-rust/26705
+- https://github.com/d-unseductable/ruru
 
 ### R
 
