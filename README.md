@@ -1,3 +1,6 @@
+[[RubyNLP](https://github.com/arbox/nlp-with-ruby) | [RubyDataScience](https://github.com/arbox/data-science-with-ruby) | [RubyML](https://github.com/arbox/machine-learning-with-ruby)]
+
+
 # Ruby communicates with other Languages
 
 Ruby Mixture with other Programming Languages
