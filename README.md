@@ -1,5 +1,9 @@
-[[RubyNLP](https://github.com/arbox/nlp-with-ruby) | [RubyDataScience](https://github.com/arbox/data-science-with-ruby) | [RubyML](https://github.com/arbox/machine-learning-with-ruby)]
+[[RubyNLP](https://github.com/arbox/nlp-with-ruby) |
+ [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
+ [RubyML](https://github.com/arbox/machine-learning-with-ruby)]
 
+
+**The list is under heavy maintenance!**
 
 # Ruby communicates with other Languages
 
@@ -25,10 +29,19 @@ Ruby Mixture with other Programming Languages
 - https://github.com/steveklabnik/rust_example
 - https://forums.sketchup.com/t/native-ruby-extension-in-rust/26705
 - https://github.com/d-unseductable/ruru
+- https://usehelix.com/
 
 ### R
 
 - https://github.com/mrkn/rcall
+- [rinruby](https://github.com/clbustos/rinruby): integrates the R interpreter in Ruby, making R's statistical routines and graphics available within Ruby
+dependencies: R
+- https://github.com/alexgutteridge/rsruby
+
+### GNU Octave
+
+- [octave-ruby](https://github.com/daikini/octave-ruby) A Ruby interface to the Octave interpreted language
+dependencies: Octave
 
 ### Python
 
