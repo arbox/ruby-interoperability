@@ -21,7 +21,13 @@ Ruby Mixture with other Programming Languages
 ## Extending Ruby
 
 ### C
+
 - https://github.com/unak/fiddley
+
+### C++
+
+- [rice](https://github.com/jasonroelofs/rice) -
+  Ruby Interface for C++ Extensions.
 
 ### Rust
 
@@ -51,9 +57,17 @@ dependencies: Octave
 
 - https://github.com/mrkn/ruby-julia
 
+### JavaScript
+
+- https://github.com/rails/execjs
+
 ## Embedding Ruby
 
 ## Inter-process Communication
+
+## Crosscompilation
+
+- https://github.com/opal/opal
 
 ## License
 
