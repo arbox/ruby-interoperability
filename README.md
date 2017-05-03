@@ -63,7 +63,13 @@ dependencies: Octave
 
 ## Embedding Ruby
 
+- [mruby](https://github.com/mruby/mruby) -
+  Lightweight embeddable Ruby implementation.
+
 ## Inter-process Communication
+
+- []() -
+  xxx.
 
 ## Crosscompilation
 
