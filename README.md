@@ -61,6 +61,10 @@ dependencies: Octave
 
 - https://github.com/rails/execjs
 
+### Go
+
+- http://rubykaigi.org/2015/presentations/mmasaki
+
 ## Embedding Ruby
 
 - [mruby](https://github.com/mruby/mruby) -
