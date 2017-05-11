@@ -36,6 +36,7 @@ Ruby Mixture with other Programming Languages
 - https://forums.sketchup.com/t/native-ruby-extension-in-rust/26705
 - https://github.com/d-unseductable/ruru
 - https://usehelix.com/
+- http://rubykaigi.org/2015/presentations/wycats_chancancode
 
 ### R
 
