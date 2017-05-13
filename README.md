@@ -12,8 +12,18 @@ Ruby Mixture with other Programming Languages
 <!-- toc -->
 
 - [Extending Ruby](#extending-ruby)
+  * [C](#c)
+  * [C++](#c)
+  * [GNU Octave](#gnu-octave)
+  * [Go](#go)
+  * [JavaScript](#javascript)
+  * [Julia](#julia)
+  * [Python](#python)
+  * [R](#r)
+  * [Rust](#rust)
 - [Embedding Ruby](#embedding-ruby)
 - [Inter-process Communication](#inter-process-communication)
+- [Crosscompilation](#crosscompilation)
 - [License](#license)
 
 <!-- tocstop -->
@@ -29,6 +39,37 @@ Ruby Mixture with other Programming Languages
 - [rice](https://github.com/jasonroelofs/rice) -
   Ruby Interface for C++ Extensions.
 
+### GNU Octave
+
+- [octave-ruby](https://github.com/daikini/octave-ruby) -
+  Ruby interface to the Octave interpreted language. <sup>[[dep: GNU Octave](#octave)]</sup>
+
+### Go
+
+- http://rubykaigi.org/2015/presentations/mmasaki
+
+### JavaScript
+
+- https://github.com/rails/execjs
+
+### Julia
+
+- https://github.com/mrkn/ruby-julia
+
+### Python
+
+- https://github.com/mrkn/pycall
+
+### R
+
+- https://github.com/mrkn/rcall
+- [rinruby](https://github.com/clbustos/rinruby) -
+  integrates the R interpreter in Ruby, making R's statistical routines and
+  graphics available within Ruby. <sup>R</sup>
+- https://github.com/alexgutteridge/rsruby
+- https://github.com/clbustos/Rserve-Ruby-client
+- https://github.com/jtprince/rserve-simpler
+
 ### Rust
 
 - http://undefined-reference.org/2016/05/14/writing-rubygem-in-rust.html
@@ -37,34 +78,6 @@ Ruby Mixture with other Programming Languages
 - https://github.com/d-unseductable/ruru
 - https://usehelix.com/
 - http://rubykaigi.org/2015/presentations/wycats_chancancode
-
-### R
-
-- https://github.com/mrkn/rcall
-- [rinruby](https://github.com/clbustos/rinruby): integrates the R interpreter in Ruby, making R's statistical routines and graphics available within Ruby
-dependencies: R
-- https://github.com/alexgutteridge/rsruby
-
-### GNU Octave
-
-- [octave-ruby](https://github.com/daikini/octave-ruby) A Ruby interface to the Octave interpreted language
-dependencies: Octave
-
-### Python
-
-- https://github.com/mrkn/pycall
-
-### Julia
-
-- https://github.com/mrkn/ruby-julia
-
-### JavaScript
-
-- https://github.com/rails/execjs
-
-### Go
-
-- http://rubykaigi.org/2015/presentations/mmasaki
 
 ## Embedding Ruby
 
