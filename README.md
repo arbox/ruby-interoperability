@@ -48,6 +48,11 @@ Ruby Mixture with other Programming Languages
 
 - http://rubykaigi.org/2015/presentations/mmasaki
 
+### Java
+
+- [rjb](https://github.com/arton/rjb) -
+  Ruby-Java bridge for the CRuby implementation.
+
 ### JavaScript
 
 - https://github.com/rails/execjs
