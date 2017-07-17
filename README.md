@@ -63,6 +63,10 @@ Ruby Mixture with other Programming Languages
 
 - https://github.com/mrkn/ruby-julia
 
+### Nim
+
+- http://www.bootstrap.me.uk/bootstrapped-blog/nim-for-the-discerning-rubyist
+
 ### Python
 
 - https://github.com/mrkn/pycall
