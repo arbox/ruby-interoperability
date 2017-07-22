@@ -58,6 +58,7 @@ Ruby Mixture with other Programming Languages
 ### JavaScript
 
 - https://github.com/rails/execjs
+- https://github.com/cowboyd/libv8
 
 ### Julia
 
