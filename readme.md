@@ -37,7 +37,7 @@ Ruby Mixture with other Programming Languages
 - https://github.com/unak/fiddley
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
-- https://medium.com/stuart-engineering/ruby-bindings-and-extensions-91c794eb9acd
+- [Ruby Bindings via FFI & Extensions via MKMF](https://medium.com/stuart-engineering/ruby-bindings-and-extensions-91c794eb9acd)
 
 ### C++
 
