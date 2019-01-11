@@ -3,7 +3,7 @@
  [RubyML](https://github.com/arbox/machine-learning-with-ruby)]
 
 
-**The list is under heavy maintenance!**
+**The list is under heavy construction!**
 
 # Ruby communicates with other Languages
 
@@ -35,6 +35,9 @@ Ruby Mixture with other Programming Languages
 - https://github.com/unak/fiddley
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
+<!---
+- https://medium.com/stuart-engineering/ruby-bindings-and-extensions-91c794eb9acd
+-->
 
 ### C++
 
@@ -48,7 +51,7 @@ Ruby Mixture with other Programming Languages
 
 ### Go
 
-- http://rubykaigi.org/2015/presentations/mmasaki
+- http://rubykaigi.org/2015/presentations/mmasaki/
 
 ### Java
 
@@ -59,6 +62,7 @@ Ruby Mixture with other Programming Languages
 
 - https://github.com/rails/execjs
 - https://github.com/cowboyd/libv8
+- https://readysteadycode.com/howto-execute-javascript-code-with-ruby
 
 ### Julia
 
@@ -66,11 +70,14 @@ Ruby Mixture with other Programming Languages
 
 ### Nim
 
-- http://www.bootstrap.me.uk/bootstrapped-blog/nim-for-the-discerning-rubyist
+- http://bootstrap.me.uk/programming-languages/2017/07/09/nim-for-the-discerning-rubyist.html
 
 ### Python
 
-- https://github.com/mrkn/pycall
+- https://github.com/mrkn/pycall.rb
+- https://github.com/raineszm/rubypython
+- https://github.com/steeve/rupy
+- https://github.com/whymirror/unholy
 
 ### R
 
@@ -89,7 +96,7 @@ Ruby Mixture with other Programming Languages
 - https://forums.sketchup.com/t/native-ruby-extension-in-rust/26705
 - https://github.com/d-unseductable/ruru
 - https://usehelix.com/
-- http://rubykaigi.org/2015/presentations/wycats_chancancode
+- http://rubykaigi.org/2015/presentations/wycats_chancancode/
 
 ## Embedding Ruby
 
