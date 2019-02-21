@@ -97,6 +97,7 @@ Ruby Mixture with other Programming Languages
 - https://github.com/d-unseductable/ruru
 - https://usehelix.com/
 - http://rubykaigi.org/2015/presentations/wycats_chancancode/
+- https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html
 
 ## Embedding Ruby
 
