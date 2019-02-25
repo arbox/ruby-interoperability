@@ -79,6 +79,8 @@ Ruby Mixture with other Programming Languages
 - https://github.com/steeve/rupy
 - https://github.com/whymirror/unholy
 
+- [RbCall](https://github.com/yohm/rb_call) - calling Ruby from Python processes.
+
 ### R
 
 - https://github.com/mrkn/rcall
