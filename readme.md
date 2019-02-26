@@ -12,8 +12,7 @@ Ruby Mixture with other Programming Languages
 <!-- toc -->
 
 - [Extending Ruby](#extending-ruby)
-  * [C](#c)
-  * [C++](#c)
+  * [C/C++](#c/c)
   * [GNU Octave](#gnu-octave)
   * [Go](#go)
   * [Java](#java)
@@ -32,15 +31,13 @@ Ruby Mixture with other Programming Languages
 
 ## Extending Ruby
 
-### C
+### C/C++
 
 - https://github.com/unak/fiddley
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
 - [Ruby Bindings via FFI & Extensions via MKMF](https://medium.com/stuart-engineering/ruby-bindings-and-extensions-91c794eb9acd)
-
-### C++
-
+- https://www.amberbit.com/blog/2014/6/12/calling-c-cpp-from-ruby/
 - [rice](https://github.com/jasonroelofs/rice) -
   Ruby Interface for C++ Extensions.
 
