@@ -40,6 +40,8 @@ Ruby Mixture with other Programming Languages
 - https://www.amberbit.com/blog/2014/6/12/calling-c-cpp-from-ruby/
 - [rice](https://github.com/jasonroelofs/rice) -
   Ruby Interface for C++ Extensions.
+- _Creating Ruby native extensions_ by [Vinicius Stock](https://github.com/vinistock)
+  <sup>[[post](https://dev.to/vinistock/creating-ruby-native-extensions-kg1)]</sup>
 
 ### GNU Octave
 
