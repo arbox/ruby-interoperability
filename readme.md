@@ -51,6 +51,7 @@ Ruby Mixture with other Programming Languages
 ### Go
 
 - http://rubykaigi.org/2015/presentations/mmasaki/
+- https://c7.se/go-and-ruby-ffi/
 
 ### Java
 
