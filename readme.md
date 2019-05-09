@@ -101,6 +101,10 @@ Ruby Mixture with other Programming Languages
 - http://rubykaigi.org/2015/presentations/wycats_chancancode/
 - https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html
 
+### WebAssembly
+
+- https://github.com/wasmerio/ruby-ext-wasm/
+
 ## Embedding Ruby
 
 - [mruby](https://github.com/mruby/mruby) -
