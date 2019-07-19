@@ -100,6 +100,7 @@ Ruby Mixture with other Programming Languages
 - https://usehelix.com/
 - http://rubykaigi.org/2015/presentations/wycats_chancancode/
 - https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html
+- https://samphippen.com/minimum-viable-gem-free-calling-rust-from-ruby-example/
 
 ### WebAssembly
 
