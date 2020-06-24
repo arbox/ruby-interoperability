@@ -42,6 +42,7 @@ Ruby Mixture with other Programming Languages
   Ruby Interface for C++ Extensions.
 - _Creating Ruby native extensions_ by [Vinicius Stock](https://github.com/vinistock)
   <sup>[[post](https://dev.to/vinistock/creating-ruby-native-extensions-kg1)]</sup>
+- https://blog.jez.io/linkers-ruby-c-exts/
 
 ### GNU Octave
 
