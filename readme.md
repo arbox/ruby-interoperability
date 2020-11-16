@@ -97,7 +97,7 @@ Ruby Mixture with other Programming Languages
 - http://undefined-reference.org/2016/05/14/writing-rubygem-in-rust.html
 - https://github.com/steveklabnik/rust_example
 - https://forums.sketchup.com/t/native-ruby-extension-in-rust/26705
-- https://github.com/d-unseductable/ruru
+- https://github.com/danielpclark/rutie
 - https://usehelix.com/
 - http://rubykaigi.org/2015/presentations/wycats_chancancode/
 - https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html
